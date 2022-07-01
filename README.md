@@ -1,1 +1,1 @@
-# SX-Aurora_TSUBASA
+# SX-Aurora TSUBASA
