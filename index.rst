@@ -4,4 +4,4 @@ Tutorials
 .. toctree::
    :glob:
 
-   Julia/doc/*
+   Julia/docs/*
