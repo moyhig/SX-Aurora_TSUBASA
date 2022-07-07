@@ -5,7 +5,7 @@ Tutorials
    :caption: Python
    :glob:
 
-    Python/docs/*
+   Python/docs/*
 
 .. toctree::
    :caption: Julia
