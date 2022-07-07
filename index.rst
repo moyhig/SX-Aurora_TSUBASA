@@ -2,6 +2,13 @@ Tutorials
 ---------
 
 .. toctree::
+   :caption: Python
    :glob:
 
-   Julia/doc/*
+    Python/docs/*
+
+.. toctree::
+   :caption: Julia
+   :glob:
+
+   Julia/docs/*
